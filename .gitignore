@@ -1,0 +1,5 @@
+node_modules/
+circuits/
+agent.env
+*.log
+seen_proofs.json
